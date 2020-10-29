@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ipaddr
+Upstream-Contact: 
+Source: https://github.com/mikioh/ipaddr
+
+Files: *
+Copyright: 2013 
+License: BSD-2-clause
+
+Files: debian/*
+Copyright: 2020 Nick Aquina <nickaquina@gmail.com>
+License: BSD-2-clause
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: BSD-2-clause
+ TODO
